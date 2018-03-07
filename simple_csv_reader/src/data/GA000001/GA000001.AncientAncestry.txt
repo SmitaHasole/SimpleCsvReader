@@ -1,0 +1,2 @@
+SAMPLEID	SuperPop_CODE	Neanderthal_%	Denisovan_%
+GA000001	WER	1.74198	0
